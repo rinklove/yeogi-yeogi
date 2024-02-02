@@ -1,4 +1,3 @@
-<img width="399" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/743c6576-a7ba-4930-87cc-21a669e1517d"># 여기여기
 ## 1. 개요
 ### 1.1 소개
 소모임 웹 사이트
