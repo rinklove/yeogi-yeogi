@@ -57,7 +57,7 @@
 
 |게시글 작성|공지사항 작성(관리자, 개설자)|일정 목록 조회|갤러리 목록 조회|
 |-----|---|---|---|
-|||<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/56ec883b-7b52-430b-b30f-ab0f7584d5cb">|
+|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/c05a3422-9262-4abd-b700-97387efba6cc">||<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/56ec883b-7b52-430b-b30f-ab0f7584d5cb">|
 
 
 
