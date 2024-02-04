@@ -38,7 +38,7 @@
 |-----|---|
 |<img width="471" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/1f925a16-4ff2-453d-8f68-5809d9aef462">|<img width="473" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/f30d9945-405f-40eb-9538-f4965ee42f4a">|
 
-### 주요 기능별 화면
+## 3. 주요 기능별 화면
 |메인 홈페이지|회원가입|로그인|마이 페이지|
 |-----|---|---|---|
 |<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/d96444b8-7a6c-4d1a-9cbf-572d6a69cefa">|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/32a842a6-617a-4119-a392-2eea49423790">|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/1e74082e-69ad-4aa0-9bc1-991670d95f7f">|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/b3143f13-20b6-46de-8629-78bf30640dce">|
@@ -57,11 +57,53 @@
 
 |게시글 작성|공지사항 작성(관리자, 개설자)|일정 목록 조회|갤러리 목록 조회|
 |-----|---|---|---|
-|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/c05a3422-9262-4abd-b700-97387efba6cc">||<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/56ec883b-7b52-430b-b30f-ab0f7584d5cb">|
+|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/c05a3422-9262-4abd-b700-97387efba6cc">|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/1bf02ba9-0574-4e0d-98dd-57aa605f85c4">|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/56ec883b-7b52-430b-b30f-ab0f7584d5cb">|<img width="350" alt="image" src="https://github.com/rinklove/yeogi-yeogi/assets/88640680/8c168fe6-26df-4e90-ab4c-1f44c5c0949d">
 
 
-
-
+<br><br><br>
+## 4. 팀원 소개
+<table style="width: 100%">
+    <thead>
+        <tr>
+            <th style="text-align: center width: 5%" >구분</th>
+            <th style="text-align: center">이준호</th>
+            <th style="text-align: center">박종범</th>
+            <th style="text-align: center">이예지</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align: center"><span>Role</span></td>
+            <td style="text-align: center"><span>Leader & Developer</span></td>
+            <td style="text-align: center"><span>DB Manager & Developer</span></td>
+            <td style="text-align: center"><span>SCM Manager & Developer</span></td>
+        </tr>`
+        <tr>
+            <td style="text-align: center"><span>gitHub</span></td>
+            <td style="text-align: center"><a href="https://github.com/rinklove"><strong>rinklove</strong></a></td>
+            <td style="text-align: center"><a href="https://github.com/Whdbeom"><strong>Whdbeom</strong></a></td>
+            <td style="text-align: center"><a href="https://github.com/leeyeji803"><strong>leeyeji803</strong></a></td>
+        </tr>`
+        <tr>
+            <td style="text-align: center"><span>Contributions</span></td>
+            <td style="text-align: center">
+                <span>게시글 관련 기능</span><br>
+                <span>공지사항 관련 기능</span><br>
+                <span>일정 관련 기능</span><br>
+                <span>갤러리 관련 기능</span><br>
+            </td>
+            <td style="text-align: center">
+                <span>모임 생성</span><br>
+                <span>모임 수정</span><br>
+                <span>회원 관리</span><br>
+            </td>
+            <td style="text-align: center">
+                <span>로그인 및 로그아웃</span><br>
+                <span>마이페이지 관련 기능</span><br>
+            </td>
+        </tr>`
+    </tbody>
+</table>
 
 
 
